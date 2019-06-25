@@ -60,41 +60,42 @@
 ##### 2.yaml文件用到的变量值可以到data/config.py文件里定义
 
 ##### 3.到testcase下面写具体的testcase
+    
+    class TestLogin(ApiServerUnittest):
+        def test_login(self):
+            para = Parameters(r"../data/casedata/login_case_data.yml")
+            req_kwargs = para.request
+            url = para.url
+            method = para.method
+            response_expected = para.response
+    
+            response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
+    
+            result = response_validator(response, response_expected)
+            print(result)
+        
+        #第二个请求需要第一个请求的session
+        def test_info(self):
+            #login firstly then Session will have be save on self.api_client
+            para = Parameters(r"../data/casedata/login_case_data.yml")
+            req_kwargs = para.request
+            url = para.url
+            method = para.method
+            response_expected = para.response
+    
+            response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
+    
+            #visit info url
+            para = Parameters(r"../data/casedata/info_case_data.yml")
+            req_kwargs = para.request
+            url = para.url
+            method = para.method
+            response_expected = para.response
+    
+            response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
+    
+            result = response_validator(response, response_expected)
+            print(result)
+    
+    
 
-class TestLogin(ApiServerUnittest):
-
-    def test_info(self):
-        #login firstly then Session will have be save on self.api_client
-        para = Parameters(r"../data/casedata/login_case_data.yml")
-        req_kwargs = para.request
-        url = para.url
-        method = para.method
-        response_expected = para.response
-
-        response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
-
-        #visit info url
-        para = Parameters(r"../data/casedata/info_case_data.yml")
-        req_kwargs = para.request
-        url = para.url
-        method = para.method
-        response_expected = para.response
-
-        response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
-
-        result = response_validator(response, response_expected)
-        print(result)
-
-
-    def test_login(self):
-
-        para = Parameters(r"../data/casedata/login_case_data.yml")
-        req_kwargs = para.request
-        url = para.url
-        method = para.method
-        response_expected = para.response
-
-        response = Request(self.api_client, url=url, method=method, **req_kwargs).send_request()
-
-        result = response_validator(response, response_expected)
-        print(result)
