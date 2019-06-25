@@ -57,6 +57,6 @@
 
 
 
-#####2.yaml文件用到的变量值可以到data/config.py文件里定义
+##### 2.yaml文件用到的变量值可以到data/config.py文件里定义
 
-#####3.到testcase下面写具体的testcase
+##### 3.到testcase下面写具体的testcase
