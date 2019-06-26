@@ -3,7 +3,6 @@ send request and return the response object
 
 需要改进：
 1. 如果你发送一个非常大的文件作为 multipart/form-data 请求，你可能希望将请求做成数据流。默认下 requests 不支持, 但有个第三方包 requests-toolbelt 是支持的。
-2. 增加put，delete
 3. response.json方法，如果返回的不是可以转为json格式则会报错
 '''
 
@@ -23,9 +22,11 @@ class Request(object):
         elif self.method.upper() == 'GET':
             self.response = self.session.get(self.url)
 
-        return self.response
+        elif self.method.upper() == 'PUT':
+            self.response = self.session.put(self.url, **self.kwargs)
 
-        ''' add other http function put, delete'''
+        elif self.method.upper() == 'DELETE':
+            self.response = self.session.delete(self.url, **self.kwargs)
 
 
 if __name__ == '__main__':

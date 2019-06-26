@@ -1,0 +1,1068 @@
+GET https://smartuat2.englishtown.cn/_shared/ec-ui-mypage/latest/images/ets-ecc-fallback-spinner.gif HTTP/1.1
+Host: smartuat2.englishtown.cn
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://smartuat2.englishtown.cn/_shared/ec-ui-mypage/latest/css/app-built.min.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: citycode=; lng=ru; vt_EFID=430F15FD-2D59-4D45-A3E1-C446FFC203EB; EFID=A51CB6D1-A61A-422E-9FE0-D6E549013337; ctr=us; et_u=culture_code='en'&ef_id='A1D967E2-A740-41EB-8605-1A42D581D905'&member_id=11380786&is_social=false&language_code='en'&market='us'&partner='Socn'&member_type='member'
+If-None-Match: "7034c0b98f25d51:0"
+If-Modified-Since: Tue, 18 Jun 2019 04:38:50 GMT
+
+
+HTTP/1.1 304 Not Modified
+Last-Modified: Tue, 18 Jun 2019 04:38:50 GMT
+Accept-Ranges: bytes
+ETag: "7034c0b98f25d51:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+X-ServerAddr: 10.128.34.163
+
+
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/partner/englishcenters HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEAMwA0ADUAOQA2ADcAMAA0ADAAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=a5a691c92c774365b78c2d6a3a6373ce; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; et_ctxtsoc=ver%3d1%7c0%7e%7e; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: CMus=; domain=smartuat2.englishtown.com; expires=Sun, 26-May-2019 09:39:58 GMT; path=/
+Set-Cookie: et_sid=; domain=smartuat2.englishtown.com; expires=Sun, 26-May-2019 09:39:58 GMT; path=/
+Set-Cookie: etctxtsess=ver=1.5|AFMAbwBjAG4AfgAtADEAfgBVAH4A; domain=englishtown.com; path=/
+Set-Cookie: et_ctxtsoc=ver%3d1%7c%7e%7e; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:39:58 GMT
+Content-Length: 2944
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿÜZQ‹Ç~è?´Æ`ÉàÙÑì`[³+Î§;( ì$sôÎôîôÝL÷¸»gu‡1X‰Á—<$±	˜`GNœÈ!SH^¢?pz“ßôàHqHþCªºgvgwgæöto´ö¦§«êëêªêêê	Ï]•‘9ÈIL–Îž	§¿ŒÆðLà_h¸IYù Ïdk›l‰qÊuB6e¡4ÓgÏ`ÔG†3øšÜgï|Ò÷6¥0LÿôHäžúžaû&@¹—I”P`gú…ù¯x$(….³ú¾ÿÆ†¿)³œ>LYÛµ­>‹ÇÐ3%N¹Ø#Š¥}O›ƒ”é„1ã JÙ‘ÖIõ½ §Ê¦‚76`Q ‹{0êŠæ†M˜Ò\Š~¥2Ï`F5¤'¶ãX#*¢ƒ¡ÜÖz—z/ùlÔ[vß)˜:èU¯z¡&JGŠç¦>‘]:¡®×#ZE0J‚ãü_©#¿]í
+ÂÀQTªvO«q­ÀßNÜÏ*g¶vªºÄ^þôò”F,‘iÌTïYEì¸ùê £&éŸ™ÕZ°ŒÂ²íê+‰4#¾ß_¾Í‚×Á9Ô‰¬i&ßš9šn¡ÑfºÌöLéºç|?tªè^z) "Ðœ9S#©20_\ÜYÛY{9¸T3)ß«
+ƒÄÅ’p(ãè°¡"æ¥Të¾ÇLä§rÌ…[ÑXzå Öõ­ƒ|ËÔâX_`à¾àÐNø[ ¼Û]Ëˆqö¤ID˜¬-0@&Ø¾Ë²!Sä:ÎtÓ4,´ly\×
+vybj"¡?—bF"/1&×¯Î zÔ¬÷˜‹ÏFÞ†¨!³ EifQ¡Xêd¿	3¢óåI2¥d£‘ [ÖC4S‰LìÊã«¦êœ
+2?=Kæ;^?Óco°IÅóÏ]zõ²!#.bbFÀw£„Å„F‘,„ZÔ€Ú°,7Ýòo¤ŒjF¸Èc¥€ZÐŒ
+pr0éÛRÅ§Á°Ÿs]è¼Æd¡ª	®	ã 	E‰”!aÀI±Ó`‘£QÎèÞd½Ì‚Â.LŒ$ÖÐH\(.ÆV;HN «{¤Tîü`ºä z­Ùðˆa: ‹ÔPë
+Ð‹|¬hÌz§ÐcDs%´ùFj†G2†5ÕDHP”b‘9½hÿ¤æDkhN#^f™Ýïdy‹û„Îî—B·í†¬ŠÁ)Ù~ß»äY¯œÃ#è"}oö<KÀ<RÛÉûÞlš)¡q¬˜Öm¡t0o>J£'×Ú„¦ë{³©öÎþ¹2ô—ô¼tå
+úìÙAŸ=ÏÁ¿Q‘u¢uÚÈ«±ÓT×"­ý6n;•i·,Ò—³uPÇcî&µnq-®æUëˆ¹FGŽ[áÔ8o/;=–ü7ÁÃDº.ÑÀ)`ÁÞdŠx)¾pÒˆ™GÀAdiÊ¬5D§ªËzlßÑTÃ°˜Š»…Yn
+{¡Iú^|˜0Lj†qCÞ½ø ¡ AÐóÈŠ*ÈÆ.Ã¦CY˜×†){
+þ9]û<ƒoà1ªïE)öHÂÃx	§0ó„Lês$Îµ:À Îë-À&ZV¾uÕóJõðÇÄyÊM‰oÆ€Þ—–yh€Ê­™.†7m©b¾ÉÇ‚\aà¸µ Æ‘M‰ä<ciü©—t[6¯X±]@‚	JŸeš:Wp”³©jNÅq|©
+ehüÎ•Õ¹ñ9o°-€u›Z…øJÐæÍa6FS/-.úÒ3ØÄrÚ4’¬}qšc
+˜ð¸ cvó6‡ms‘Æê·QFE÷:ØÅh$ÂÖ”oÕÈ|ëû'˜\§Ââ(7(G»¼¨"ÆÈ€yi9p9Ü.ê¡`‹tYUi)¶iâ–(åÄ†•TŒ!/Þ`ËåØaò¶yÏÑäà)7¤2Å¸xð…^™ÁÁXöƒ¯dJ.\§†ùÂÊÔLÐ)õ–î­N:‚œ[QñàsÊW‡¥—ÁUV%+ƒÄrÍÐ”S!W&Ú“Þà¿?ÿäßùò?ýyeª]ê
+ž|üë'Ÿüþ__üreªdÏ<½çÛßýì›Ã/Ÿ|ô!¹ðío~ñäð«+3J9üó'÷žÞùÕ	8ÀJ>ýÃûßüý§ÃÊà
+ˆ~|øéãÃ?=>¼‹ÿßÿàñáÇ?[™ƒ*¼ÁÑ§ôðÎÃ;G=:<º¿2©#ºõàojoe
+®õ:M¨¦°qÄR0ÍéÊÄÄ=úüëÝôÕ£ß~ýãGwODzôÙÑ½‡?„öþÃîµ†A¥R
+UkŠ4aÃI:’ùâã"Ár¸Ú¬^’Ü%ë/~‡øð³öª­·ÆE™ms¥Možz~Y³îËdp°À£1¸sûGÄ tÙ-0æx>ìO°ÕuîË‹B
+<Sv¶8Ój“õåø<#µEfØº!ª‰†qpºô5T–ÒºÝo7oÕÉú‚Npyµ‰}Øp‚
+Ãí«†•ŸÁ‡&ó70ý„§­"Øƒ°bc®AÛptgs' 8U™q‰…6E|0;ö‹‘„êæM QT-Ä1võfú˜¡Á—^Ë<ChvÄØjyi9¤L 1}4ƒDêN{ÌlÊ®´õ8nx>qÜp+v¼V9‡4Bs'Áô@wùíØÈ½™€åþ¶\Û‚nXN[®êÒ›%´Šg®™æ-!Ô(O½eãuom™«4\É	¡¶„Jç1™3ÖÌ¥WÍ%PM(ÊÓI7ŽâÙ$áXñ ŒüD57ZCtJ
+@a^xRìVÂ±bÚÝÏê ;¶âIBÂ|<FºzszŒ °Í•ÌíáÆ†‹™ìpS:8–…›5ç;¶ÖÆªóK¬Ýl¡,8ËÚx`–Ïìö=)‹7
+JE+ ýü‰so‹½øÆàe'š‰H¹8•^uÂY
+>7½ 8f×ëš:ŸÓm-$ÙèÚ¡âbæ‘ÇkjÃ¾NàØª¡a·‚©ôeƒ°áŽïOÇƒã+Gøe£{O.‘V;]ÁÉÀºöªî×Öb\Âé@ŠW™?„ƒë²Ù^··8o ™„+3ºJ4MÇ{‹­¨ò€ùØpŒÝ;3+s5
+·¥7¨îNÿïišÝ1¢ÁÍ“€¤ü{Ì^-M\KÀEÜR1|‹…º¼¬XÊÑÞ½ø^¯=ö‡y•çÁõÔŸ TxL‡W&
+o=ZëïÝ6ÒFK¶A £iZó¾Y˜ŒR©!NnâOØZ°ªLMµÞZûé2˜™TÃó¶*ÔFI1Üâp­	aÁ=Íû@t|m„Z%	0a×Ï¸¿a|©4„J¼Ó™Ö‘_$¹Ë¼cYà••[»¸­ep§˜Bü#pë`ûvøvÄšÀÈ}gÐ¼ØM:Xì«?WÛ‹Sf&Æ]˜®rÌ]¯¦_4L8|l` ²½wq½˜
+‹ñâ·
+Ý!^Axî­Í«·6Þ:{îX†o"ëç+,ð)L¹jØôÆÙŽKàJ4…¯3(Ü8Ÿ‘œþ…gø5ª`/\>{&Þ~DÁ:Û¯<ðO!Ý·ŒO»kÙïYN$ðÊÿš´¶„a xïTŒ"t`{‡þx€-Æ¦¤K½¾³Ý¤ô+!„}dû˜ñœ?^ÜwzLØŠZÌk;é¿›#Êœßð` ;X‘#
+LM› D	¸Mâ»I¿á!'¶o¨ÍŒÂˆvløT.–uqÉhwÒfè™‚iŒí3˜oÍhªvýUgÑjáÌFk1Ê/îWDc¦Wˆ^"M©ã4€œ4e¹o\´–õ|µ'Ñ¾›®Kú±·Ê1'„é1’;·Y,”€!²Ö°&†‘ãJð «AÙdÚæ×_&  
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/login/secure.ashx HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 37
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/partner/englishcenters
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAtADEAfgBVAH4A; et_ctxtsoc=ver%3d1%7c%7e%7e
+
+username=stest61031&password=1&p=Socn
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 115
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Origin: https://smartuat2.englishtown.com
+Access-Control-Allow-Credentials: true
+x-frame-options: SAMEORIGIN
+Set-Cookie: CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; domain=smartuat2.englishtown.com; path=/
+Set-Cookie: et_sid=0d6ae130fddb49b98e02febcae6c8870; domain=smartuat2.englishtown.com; path=/
+Set-Cookie: et_ds=us1; domain=smartuat2.englishtown.com; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:09 GMT
+X-ServerAddr: 10.128.34.163
+
+{"success":true,"redirect":"https://smartuat2.englishtown.com/school/course/currentcourse/handler.aspx?entry=true"}
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/school/course/currentcourse/handler.aspx?entry=true HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: https://smartuat2.englishtown.com/partner/englishcenters
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAtADEAfgBVAH4A; et_ctxtsoc=ver%3d1%7c%7e%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870
+
+
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: /school/mypage/ec
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; domain=englishtown.com; expires=Fri, 19-Jun-2020 09:40:10 GMT; path=/
+Set-Cookie: et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; domain=englishtown.com; path=/
+Set-Cookie: etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; domain=englishtown.com; path=/
+Set-Cookie: et_ctxtsoc=ver%3d1%7c0%7e%7e; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+X-UA-Compatible: IE=edge
+Date: Tue, 25 Jun 2019 09:40:10 GMT
+Content-Length: 134
+X-ServerAddr: 10.128.34.163
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/school/mypage/ec">here</a>.</h2>
+</body></html>
+
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/ecplatform/page/mypage HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: https://smartuat2.englishtown.com/partner/englishcenters
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: et_ctxtsoc=ver=1|0~~; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:10 GMT
+Content-Length: 6300
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿìZmoÛ8þ|úxÂbå\#ÊvÚ&Mâ]ô¼] ‡ÅövÛä‚B‘i[©,©"—Ëæ¿ß3"eËŠÄØuÚEçVˆ-qfžÎ‡Cÿu”†ê:lªfñÓ_ÉdàˆÄ)îˆ`„¿Ÿã™P†ªÌŸæÑÅÀ¦‰‰òÞ‡ÃBýkà(q¥|buÄÂiK¡ïßýì8Ìoeõ/ïýKo˜Î²@Eg±¨p{ýj FÜY«HÅâ‡W?³WÉ$Žä”
+Ó9¤Èc_?yüèñ#àeÇ2Ì£L1xÕypè»¤
+¢ë"È	ý8š°»ÑÄtŸ®0§â­È/D~ÈÜ©R™<ô}9r5TŸA¥—	—ç"‹ƒPtüûßù»ÌuwvWÊH	0“Qš€áßã4›ÁŒnm`e‡u4„(	f”"ôæ‘7»Î‚‰p
+ÓSºnkœÒY©yªšr4X$>:d*Ÿ;Ÿ0Ž€ó­
+”x9
+2%r9¤I¿R z»¤½=Z~_~#aašÀÊ\åišƒ8¿¤“‰Èaw×ÜôÂ4~\Üö³ù™œŸ¹~.“þ3PS"ö?D³‰$²Ô7Sj¯ðÃ„gÉ¤…G˜f×y4™ª¿ÇóüìõOÄk¿×íîíµ`Vø,ˆˆïÞÙ<ŠŸE‰e|¶ )bäWçÎaN©üsÙÌáÄ%1ÆcÜSÈ½q…¢¹Ÿ"6E>NSL„ÐŒÜªõ+Öºˆàyïò ü%äç|.\®Ò_ÒK‘):;ƒ¾Ë~däìƒXŠæ	çR¥³a1§„ËG¹T¿Â?C§×å½þÚç½§}§”D`E¡X°pW,cžúa!¡Ù<¼Ý)ù(PáZõA²‰„
+ÈçÈxý½½þþ^=”š5/#Š!Ü,QâŠ19žÓÙLä¡@d· ^Gòêå‚Eaò™{-¤Ó»IZå µ8öuþB&57â(ùÈr©®c!§B(§šôB)6ÍÅxàÜ—¿üÆC'ó‘Tyù=Ž>Xøå-Ž•TþEÄƒ$¼>K¯|xæŸš‹üš—wW|I3TC¬T¨ïS  _ErüEl±:Æ‹ù ´°È>«@6^Çó¤6j˜¦#Ñ	ÄñN}¢¥’Àá‹ì	sN-HhÐ0#Í£õï÷¿¿b‘O¬#TsZøxXH¬'âRüjRÃŠË,ŽTÇ=rëãÇiÞ!šÒºG,bÇaÀcÄ¤šâ×“'º„'Ñ)Ö¤hÖ©óŒÆ¬ò(‰«7ã)¾ÃÖ½Ã‹’J.Ô<OXÈ%V-•#ÍÃ.h4u!••“ØÔ~®NÕÈ•!‹™C™õÆ¬óPÞXhRäQžšaìûïMÙ³¸ÅM5p‡œ€…’gs9í¸”5±æ…rw+.ã†*wwêê­"•+”‡Eâå‘TÈ`»T”Àðà˜ÄØÄ´A/r¯Ë°×84â_‚äV¬„Õ?:7À1Oš€Tf‚ØÓµ0Ó]ÆºA©¾Îï–	¬µõˆ[›eãJ]ÁWùJa’SŸøÿÎ $ˆ®0ˆã3”	XûMVè4š“˜”c%Øœœ•y‡Ø”—‘ƒ §Ò¯s³*¬…ù#¿@S–=Þ­WÄåàË Ro‘_’‘<dÝZ±[:CAó>K—…|E˜§R¾A5%?¥”áÁý¤.	¹w1ux~g3ÐÌî´Q†i@yO8nš)	¥%.Kãë6‹Ñ°8
+±¹*vå*O$~—?ã=ïéž'Æ¼gc@&1r¼³y2Š-µ‚‰$Ñu»ÛäÈô„.ùr*›ÄÈDâïñ§üùºx‰âð–¾©µßù*1
+«.áõžÛ¸‹¯Rnkô’›ÛD7˜~IX€ïzû6|’ŽD&·]-ÄlB`WI}r
+V›Ú¾êÄmØTb´K;³–ødø5Wª±mb"“ ¼öUš"ç__W} FuA”x}ÞÅ?Ú7'¬µò‚¦h9ýy¸W¼Ñ_(,n@ú ºOP}ÿyªÒ·Ÿ@T@‰Ä–%]×e8…ßcZtî¤Í ÆøKÛ¦ÝHðÀ°(m²²LºÈ½}£€^K ¶h‰m«Ä¹L“¾Mjô‚Æïw{½^·÷ÂFl Û"Eþ!5ûlà.	ù¹„÷øžƒÁ\¡Ú29
+‹Ýª´Él@m¨Pmí­Ue…ZÊ¶Vž!…&Ø¥5Ç2Ã§‚q§û“šŠš/ÝµŒ«Ç{—‘šzÄ]¨më–Ï†FÖDð‰}n
+ãzøÃ ]4§6„\ö´ÈØü™xtI÷0è=
+éÌ&¦•Z¦Ø ”»m>MZÀjc°_=vdìÜâ8a`Ó`Á z ~9ëmà>èÇ¦Zúé3KÑ`Á®EÄŸ§Î’¥.nã²2+|Iù@ª
+šÎÆl*³È@Ú·PWÍEô˜KC iŒ­j²ü@ŠèI>òÏSÄ[ÐcJÐPß³±YÕd6œÓ)ËÛÂEÀ¦ÐiË>EN£ŽèÚ
+ÿ¾u™X\ei®Ð(›ŽÆÆ
+­^¦ƒy‰6jzÉÿñöÍ¯GíHˆ°Ò©¢ŸÕë¶EC³\â¿Ž&x’ÑR£PÝé êõ™:¹&Îe1ÿEŽ»W»6Ü‡ìÄÐº§›1|îNëw›Ìëw_f6
+úJNÂ1ÝÝqFÿŠ;µ­„³î|;ËsÚn¨ÛæG·-^22+ ÷o÷Ï‹3¼¡ðŽ—‹}ŽgÚÂ¨àË‡¶”ÈðÁqÿ¤x	£T“ötâ»å‹-:€ºø"Z£	J˜’…—‡ËÍF!ª
+íUÊ°¸jµ#Uö§-ÈK‡*PÂÌ›œZæp-ÒrÎþøƒÝ°Q Låí†
+LPåúÀ ‡&4éué¯Òot˜>kõÚŒ§-Ê•§•“ªâßµ¤]vþÛç¾ÖdT%èœ´Ï"ÃÇÕ†ºÏÑ>*Æ>ÙÌ/Ž6¡Â[x­ÁÿDð×&,ü9³”fù<¸Z›P¯þ¥.¬0LÀÊ¢‘*O¯7•¥ßŸØ”*2úÏæ#œÓûRrSyÓ@NÃ)Þg»_f-éÞ+©Ã÷F1Ÿ´ô„iNNwÙ¢¢²{ðíÁ-ñD¼èÒQ×=c~#×¼gÌK8a;kX"ïìp©ð®Ü½õQ§S ï4!ÇòÒyã Y$£NisÒW?V-‰èï-=lV©!+¶ŒÎuzÂæd³M´ÆÛ<åÿ'š4;‹ËêÅ¥yºh,åþZO‚HÐcûO4÷ùþ7~¢	ÿæ}ï€´X§4®"Ûfv—Ý´O½ñ,]ô")D¶EV‹Ÿ,	ÑYè6¿ŸÙx˜MùÃœfÛm›´Ï.h¾z—ž*Ì
+šôx.=".ÌûÂÆÂX–oëº¦±	k2ì'Z
+Ñ4~±Vc^ËðzÃ·Å«ûækâ]ôÆ4‹Wl÷lÄÆ²züèÎóò•PˆŠÅ”t0:šaˆ^Þ[ï”½$ÜÖðf)¦¾¹®÷8NÕš/;õD‚Uñ ý•*J“Æ]´m8Ñlkfâáá­#1Ió/5[êÍŠ›lz)q[´-ð²ý†_ÐÁÃx¿o#_1;D=æò€È&ºÉè+o^ÛˆWp/Ž¿>½CK:šŽ±> uà2)>N	–Æ,2ÉÊ`{÷*$ñ¿Ì[[Û¸~ÞýZgi€Èêô1‰SdÝ´
+0Ø[RìC0d‰ãQ"KZŠòdÌïwx‘iEÊ™ìvE²tî$Ï!	\A!`§Í‹þ¨â^Æ’Õw­,kU…µHöJ¡Á0Äúù'šÌçé@Gkp(ÐŒµŒ‘‰.3–~xÀGâ[”†œ5QùlÔ3é¶x‹E0‡¸ÌƒÊËÝºq.¨<™ÔG-È—Øþµ¤ŒîJ®´ï:´Š…CGƒFp¨›¡äA/zÑP–M“aðÆ‹6´«·Ü|xƒŠöôŽ¨oT¤Ü²ŠýB sOu.‘–iþÕ4Îýˆm<ýG“Œ³ m­Ã?ëxš´¼¥ZfÕ}JjŸÄ¶çÆ?PK$î¥JÇc;+¢
+«ÑWmíá¯mBÓ£ƒ³s‡~
+LùOW#ÏžM÷>‚¿Ÿ»wÜW½gV5‹ØÓ•v: ;}vò>O«TùïO5Ô¡`îÏíOÚÔ“eO©$þë³ÓŸk¦ñ6º6ü]{îwÖC³’<5:Œ#x©îd&1¢¶%v9Ã4Æ¤Ò=I7 þýyÐ=*íé¿‡(Aîöˆ†ŒrmŠ"Ú5¹ÈÌáÚ‰e
+•½„ÌÇ©Y¥¾‰±Ÿ¥—„ú4E@9‹€z%5:íE˜¢`
+©ŸmqðMVd×8v})O]4òˆ…º…%KžÉ¬T€Nêa¤T2àŽ‡\°Rñ©×F?NÁÏZ–‰§ÃŸVeY%Ti$]úsóZ
+Oò#SGq•E/?Ý©Ê¡|œjM#â®¢ÚzUÖbÄv9d(úF—]Ö2çHËD	£]Ù±ëŒä™
+Šc}rK‰´õƒóXŽ¸T¹¶a5|íÆLíSœKîP†®ˆ Œ/éu”4N)®ŒÚÉ÷³¿"HïË¿žÒx?B¥•Eþ«ªJõCÖêlôÉº¡b“4tù»ý÷Šê#c°‰}|Ý€+ûa÷ëHˆWV%U	Ÿx‰ÕžÐæX€à-õjv$Ý„i¾2älÌÖ,¼¼…ß€Ë¨àóåÁ¾è6K·t$wØ>Äœ®Ös%ðúzóŒö<¢¼˜Üy I ‰06•›fóõJ}ˆ?¯86(IºZuRlqQ¾ótô„ªçÿTò˜ú,þÝ*¼l°‰ã„ö`×FpH@ååYìe;är7dfáƒ»Æ>MtŒdêòŒG×Y.Ÿ$£;™©éj[ñ FK	Í±‹‹ÔI%…¨ÐÛ–Ô`Äf²rç„§BµïZ[yt¶Ro+ßc~1µov¥ÞžÀà¶ûf,Ú|ÚÃqÐ ¼m†ZËépÜ5Ùî{’úKR;¸ZÕ ¯‹·ÔÒ/«Ö¡:@ÿ§ÙüL›èþÀp´mæ
+ãd3è_¨xé¾&çæ@öWr`¿ÉùÄZµ­»—åv°³  ü¯Œ|ŽƒÐ€]—;ò*nÀØfêXîÀÎL%Óö0ü] Û‘ì Ì’£¦s“a
+Ê”]güNô‡ÈqØH˜O¸tuðexEÈõðÎ-B3—r±:kp¾,‹Ào
+ì Ls–rö%´_Èk_ýj^…I'zÛ³b:h4,eÆœgÛ¬ˆóW„‰…#£ûEÏÃ[Ý‰"Qã,®ËdŽ,õkìå
+Ž?¤LÄYî=~ìõ½×xd?b0ue×^ 89µ·!GrïX]Ç[Áßž[MgiÞCrMÙÑDÃ#o™—Ûàóxÿ$hûZìê-ªª-h‰Œ•'~/pÓ9Œ#‚èÉGPZÐÎÆä£»Lr;¡MoìYI]qyÿ'»Ž‘¨šÜDidIÌgºKa¦e×ãÉŒ
+¤Ú]SÈÔ!ÖëË÷—?ýûý«_þpù
+ýÂ¯åoTb^³Û˜3jØ%+âMÎügÓòèD9¡y×tw¶Kª“
+
+Ú¸
+ƒÿÝ!k|Ø‹;k è<Å™£Òþ¤ÍÔÕ‘ù0JýÙÍŒÄøº’þŸeNêeÕÔ7–!qòîkù{³ÉÄ{Õ9±ôð®ã¼f®~´fâ§]‘‰†³ ‘³|ê"ï›ÈHyYgƒŸÓÆ÷¥(µG=ÇãeyËø:®’™«ÕÊóSÀåe…]òÂŸÕg[•+¸mŒÂ}ÆËB’A‚T}WeiÞò\›˜‰½ma­ú>ƒòo5Œ«–éâª’ÕøYÆˆ"}Þ$ð—
+U&4„D˜\Æýóe|Õlà?O³½G™†Pž¸X-|Ì(€»F2ÝpÆ?¢$çâÅóð/Ú”/Ë”À}¼S#œþØåþPµ…`ú.S–¢<Ý1×‡‰u\$ÍÀ‰ÖM³yêí—N„`_u³ëÉ6HŽÏpŠ6…™(Ô%èæ²n·QÍóï
+ãw !ïéyƒcßÇ–A¹ŸÛ®/¡¢^
+VàñîýÒÍ '4Ïå¾–Îîˆ„ÜˆÕå4õÞ
+'®(ÊËÒÉzÓ±}œ7è+óQûÖÔY¨'ÙÚZÔgÁ­<}OÏi±?Û\–Ûß2J8hÍm|0-GµrŽƒÆ'¾¬Õ:ƒÎÝ›f(Eò\s0Ä
++«ŠÔ?º—Š@_ë´Tà¿;Ì'áÅæ†Át õ(¿{]¤ìÓO>ÏšÙs
+œÏ¢æwEñ™»i
+Á3¶Œ…à^ÏÛðÂ??_ÊéÒ9X7Ld¤<O¶ƒáN²“YíxqU!‘ý&áY%kO¢FzåÅeV|„ñÓ2i(ÆZ&XF
+ö*gô+ÀÒˆØ8Ç	DÖ¾$ù%9@ððÎÆEâ}\Ká]—V6AzVDkž€&ô?¡‹•VcT§´ºõwoãíñ©"Š´üów»¢Z)ì½¾Éò4¬]c?âb®™®˜ÐŽÚÙÞò¸¨óX”<z]¶åª¼ösY5Õ:Ï0\¢ì6)Í"v%xÃ#fE .ö•Z¯)*||ù
+àq!é‡œm³QeX•Õì¦§š7šdÞØ˜[ë$ûØÕ>©Å¿F<È¸®:F¥^ìD¬L	.7•„Tì'ßÕ¡„;±UÕ–Ê~þr•ñU9›ôi‹:›Â—Â=àÈfd-‡¬ˆåã!ss»’´9·*~íªÒ&zÂ¨¶,`:§‡i"#Î¥y…e/%ŸÒ“}{"–¤h^Æéì¹ÍhØ‘é¿5ã/UªzÕ¦£¼ [j~Ò£ì q²ÜÄ²7àK^ôáatîuBƒÝ{	ïó<‡aƒ._Õ3–a‰á=uwžüØ£—„=¶²e¶r>Tððâ¯y‘ËÇ7ezw”þ`	N-…»;²¾ÌyxGonå"!Ú•iœ‡ÏP£wÃpeî³”•áMV	¶ _2°Ì»$y\×«EO‚Æ#+†¨‡4%ÌAl (+
+Æ=ðJróëìÓÂR<¼X-Ëã‰P½Ó’«äÏÁÔöoó¬¾ÚÚ1Q‡,I`‚”Ù,WfÛZ[vb<a•¶4[MRfžô3’Pž6Þ<òˆLš
+V?Þ”
+ÿf¤l¬æl—a3Ÿg´Ân‹Œ;˜MÁ!ë0üÎ´K·C7èž-7Ø'Æ¨e¤ÓMeC·–œdX7|Ïî¦©+¸–®”ÿAº@ÁnCVló¬¾AB”¢Þ:l*ÄÅ)‹Rd	ÓLé†ûÜ-ò‡ãöÀëéùög©FOïeŠó¦ŒyzhŽkBUì	Ñ\=<Â8ÅÆo‘ÕHõ‡U\°|ÚÂIŒ\IÍr­nmïž/=*Ü²<)w}Uj¶ÆÊF9sïSR÷8‘UÚ•
+õåÎ4ÜÜT’Ãƒ
+zí°–“+'gë’oïàvTv¢ˆ÷ÙÖf­gc(sï3ØwÚ`ØCD‹ú¥ˆnìBŠ ©/öCÁ¾ó1PÏ³Ý¶ëó-‘5¿…‡õ=¦2!ªúiÕ»˜‹&G`,G¼(o‹eRDï±é³4:š‚°Šeµˆ²
+HuTWrÆ\n³ë…çbµXxÑ€íÃj˜Žg íûÐ·¾÷æÝ1§¾¶On {(Ê‡B\ÆGþÃë…çÎ¨Î1‡ðéOy]rìQJX¨pÚNv¬
+Ù¦O#…§]`Ež×ä	´{=¯á »]EãÒ„Å‹ÇÅ¦®ž!$ þ¡_ ÈBuP{Äžå2µP5û_óÖ’Û D¯Ry.(R?
+"R óª‘M¹}ßxl#'R]„`yž'o˜ƒKYÀÝé:¨FàÕ‡3Å?ï]oõ€æÛÇº%ú+Ž3n¬_Ói¸î”EëÅ=µÿoüÔ’ógð)Æ/à ¡~m­:´{Áß"¿WN \0‘8ÎxÅzÉÒ±µ™¢ßçPÈ<-~Òù˜ùÑŸÏËGµ¸á{{ª[¶™¹ ˜˜/Ý²¾M/•§¢›*ÎûFlÞ^«êEÐ
+ƒŒ§EvUgî’¹móŠNñ(CÆí"ìYª–°†¹Ôêr£µé¨F£FY×õâ¢µÍw›ø¾
+ÔÝþžM%R²Ú
+ˆ	=}æãä|F$hœ‚­K¯Z›Ý± =ä™ÎªæãÖºêûJkøMžòbe]>—›BÊJ†Yd+øE<Q¥¿‹:¿ —X¦çòuI	;†tJþÛ	Š©øw  
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/_shared/ec-ui-mypage/latest/js/app-built.min.js HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: */*
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+If-None-Match: "b0ce72696428d51:0"
+If-Modified-Since: Fri, 21 Jun 2019 19:06:20 GMT
+
+
+HTTP/1.1 304 Not Modified
+Last-Modified: Fri, 21 Jun 2019 19:06:20 GMT
+Accept-Ranges: bytes
+ETag: "b0ce72696428d51:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Tue, 25 Jun 2019 09:40:10 GMT
+X-ServerAddr: 10.128.34.163
+
+
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 17
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455610594
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=context!current
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:11 GMT
+Content-Length: 278
+X-ServerAddr: 10.128.34.163
+
+[{"values":{"countrycode":{"value":"cn"},"culturecode":{"value":"en"},"partnercode":{"priority":100,"value":"Socn"},"siteversion":{"value":"development"},"languagecode":{"value":"en"},"studentcountrycode":{"value":"cn"}},"id":"context!current","maxAge":14400,"collapsed":false}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn|devicetypeid=1 HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 11
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455611417
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=command!*
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:11 GMT
+Content-Length: 5499
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿÔ›ooã¸‡¿JàÞÝAíŠWŠDÉîp6>Ûéíƒ¦Æ6‰Ô’”³¾E¿{‡¤åHþ“d-z1z±[N~ãy8$‡Cò?_/4˜*·æâ—¯ì‹0	Ï™1%è¹Ò“¸*ðg–ŒÙ
+R÷Ùðù3÷Gv]ÂÅ/ÃûñäâÇ‹Jçø&1 W‚ƒIX)’R«/ëd£Þ|³¥ò_¹ª¤Õk®2øáçŒËþÆ9~óJãWôÀ=*™¶ôæ·ÆÊÿžV Pò‡Ÿ³_çª,@ZüÆ\I‹¯&Á
+V–¹àÌâo&ÿ5JþãO|É´ûkeç?ýýâ?~;¥	[¤JÎÅâûáÚšì3·Ë¬6´Ë×ÚçÌa¶5I[–oúO2Æ— ¯ÁõÊëA·˜:*KÞÿ›/Â^~« ÂÑ§Kxì!h(÷„Bä ¨ùÎÝÜ£•*êŽj`&š	)äb„Ÿtãð=a2®+aÏI¥m‚—C¶3C¨Ümžv“b£ÒÃ»ÍSê$F€)f#˜
+Y¥ã’hkS#Á1ÏcÜVfÛp¹22Óqþ8®K ˜YÎøc.Œ­\fY·8¬ÙÏGP¨UÇ¦?à|¥æ¿
+9#®½æ"‡ºñÝŠn>jå>é6h•Aë¸•~ÐùÈd–Ã>W`ì9À´Pcò¤}þP7â°÷úÒ±ÝP×¥F@*+æ›R@!ÍÉ[‰o1·êâUù>ð¸†lÇAôˆ Û#`Yü@pªÔ¼÷Ë#Œ|WvHÂPº%Y7ï¹“8 JÚû‡2Ãt?u_|á´cqªöÿ¡©KšÀ¸š©ÊzÛ¿¡JÚû+¥‡ƒ«õ$$<	ì(“¦ðë.f;ª¤½jÅÁï>˜K‹{™Û.‰ÇLæòaà–4Ë:æÜ
+¯õÈØP%íýÖ÷kÍæ6b,´…I3ž%ª¤½w
+µ™°Fªt9ZÚ¤I„l¦.ŒFÄÐ&Í ù‹æÖPXKRó{K¶
+wÞÃyZL4–»5ü1UjÞÃ|[WŽV+9¬IØó°*ìÖà
+§ƒa$‹Ð»×‚„}¾Ìs…çc:&w
+ŸkAÂ>§ª(sÜfŽÙµ aŸ]“*­»³PÑ<oË÷ÿº{ßtçºW¤æõçJüÁ7§ü¢M^GD)û~a0oºô({\Ï7ÝºwÓçZ‘²×õŒÏëZ‘²×i”I¬ÙÖµ"e¯Ý kkúÞÖ¥FÀ†Â4ßêc°QÀ¿•ì˜¶×%N`+õ÷—•]vëõ;ºÄ	„¢ÉåŠ‰œÍD.ì:*ˆ}yâ<Ò{ÃÙpì©§q‰×ÖMpKw¼8j…87ØÙÚ]q.l…Dí?‡Mô‡N1î¼ñ¹˜lä‰óƒàóÔ¹ð¿3Ñ´¥‰sÀS¥“¤no‚Ww:“°A®Nh Î$iš?Î„åˆ
+âdžsl«¯â]¹SÊ<¥u49n†8ŸV«žÑ‹–ˆSª{ÖøãmÇCª6ôÒz´™„·i&ÄV<\×Õxùiså6nðBëéW;^¥è{í·Ë ®ð`V—“¹[ßˆRöÝmêƒR‹/´ä 3¡ýkÄ‰±Àf3•^ÁºþÊ.ÆþÉÉSj&øÏx•}]b
+<ŠÆ0ÓXåÐ¥V_ÖÉ°šåÂ,ïÂ'8Aã¸:!œ¥»ã¥!™¿›O™µ®;H‰Š“1¼,K×æ®9@6ÃÃQ!Ò&O;‡»étMiºö‡©Á-”œ
+¹–¹ÞdŒÏcuƒZÇlP&ƒ€JF
+
+h¯IÓóæý›i+Cå•§Ÿ[l•Ç´i’˜‰?rµHj£<«Ñô¶pÇ÷}v“à½‹BØNï‰’÷º8XEö=ˆR÷}%Œ°ÉDc^×ÿ†0uO"[€M>ŠÆ¾3üîÄåñä5÷ŒÐdÃrÐÖ`RP?kÅ@±«IÓsÅgSëz–’/†ódiúoøR)¬h•çn¯kÃ ­ð ´7²~Ê[m%U˜©œì2ÐJ›ª(lŽª¥áN
+¦Ê­©f˜JDÌ(Ì1qB,B0ia¡Ãbªñzj7[éÓ'-ÜéÎïáÝÉÓÅhÙ]1Ë—cdßà¾åÞP|
+¡ö]ï ­Þ‘Úoì3õÓ×¾ABÌ4”J[8Àé$Œ;°Í’tÉä°‚üdHo¶Ð*!|Àƒ[9WgÓ6B•
+Ã+$Xf\s•W…Te(7²Üû—§
+iEÍkV¨ÒáLrÈ…ØÔ?¸ÝVfãÄ÷ªb«š¤þÁíöY>š¿ûó_þZaO*˜ÄM.¿4q›9é(}À§‘ø¼f¦_|ÂQŽï@¨eˆ0£“k¸Lû¤¬˜oÎp^ù§ÿr…0È¢ÒÌ«âŽŠ=j‹*©E®f,Ç2ë`áý^äø2Ò}L*
+\ÓbqXlÇÈdÜnÄ	íUÅVuÏU>Æó×.ðn½Ìn·žÄáóªª|–¢`Œõ
+j'ø*RG: LˆAcq0{7k¼»ñ«†[iÕØ×OðB>xÙM*a‹T•ÖbH`î÷¸ œœBéèCx	÷ÃÉ?ùÓ7š¤É­tE×ªÈÝZ3jµÀ‘ÓL\É¾Ë¦m#˜^4Ð&.-8:ŸXqúÝc@Zê}¢‘ªìŒ4œ:M86þ´V•ÎñP‡4€¥¥Â»£Ê‹¨2áž‰EÇ3n2{·#JÛ÷Ü
+Ývw8ÿ¬Úï¤agsàhÄé
+!
+r'˜ìè“Xö1ku©G|$mý>[¦íù€´äûÀ#Ux/ìcd×M*˜»WX{d•]â¶È¦šäGÔûÒ>à'§/ô#«*m…Z/X¡IÇç~t)cŒq¤­HÝë‡øsË3€qê,Úc~ÜXhkS'Ñìã‚hISç°;ÂÇE±«N—FÔˆ¶‚4}®‹W¤n1ªä\èb¸T>UEŒ(xÙB/¨ŒqáégÀQKÓæPj59`É|!n=Å±«Ýá”Ç98eÚ–À2ÖçÖÃkœí0/Ž	d„÷ô„?ù18q¯3èpý»µ³â+eË ›„c—Ã;o…*ÞXCÝx‡bï9½d&ðÜ–Ù”+iá‹År°?¹‡ÿUl¥@þªšl\òTà±UØ‚‹¹hÝ‘%äØ,Ö%¶}"KcüI{®
+<f•ùËJŸ†ã±xòPû
+6¨’1Š–k&Ýµ wQìn=
+ïâ`yÁ@?˜Œ—êé¬LZúÁä=Þ¡ROç Ü
+2|Ûsp¨µûAbLóå98e²l•­qÅ]²uÓêÝzˆÓÍÀÕ†Ç`Ýu¨Óå­ÉÅ¼nˆ£BÍÜ7ü˜ÖËÒ°û$øc§ãA5	?Žˆ÷€E®X†Å!{úå‰@`ÄV™,ì&®íü§¤q=èNeUc®ôé{ÌÛŒ‘e…½gÒåæÊILL¯Ú!KèyU–ÜøUàÉóÐnàÔWÂ7º} 0‚•hoÏ=Haã9l‡,¡ã#¡9n€,“
+cê‹2g2áq\<
+’†SCc—pñy$>o3ÖV©<ù~fF;F±^æÌÎ•.à¬SV–&ä»Iö½°"©OOmÞj ?L,ãxpæäÎô
+ N™ÆL©Ç‚éÇä2ËâQ˜5T{áý
+µ:=³Ýƒ-€ L™g@[w!	!b$R§L£X3Ž'¤Î`!ÜåÍÏNÀBIÉ„†$,–/¥y}z
+a/^¾Él?ø	é&¢°µ¨Ý>?‰7Ô<“Ïò›fº}~ÒWfC
+óïËYê¥1Ø!û÷fÓÛ8Ž„á¿²k`.‹^hÒÓÀ,z±‡Xqz
+$ÃÊÇi!ÈRÅæŽL
+$e·ýß§(ÊŽeKN&¢—N‰í Þèq‘,Ö‡RcŒ™Ítê@îœy	ž2"W,ñ’Ô1ùPw˜N©œ3l!€³±à+<üp{œB`é6NvGè5%”òLðhÉ«‘Ý“:¡vÎ´LÐÚ§¸)yCƒÝ9Ò­™?gLY;m€Ã²_â$FTø†‘;<oQ£Ek
+Q¼˜»Ä´'C‡O¸úì=2X96ŽÈMW|dèñé-"¾}Û¨K4!rŒ†xÒ¸LÈbÛfM!+B‹
+aÓÊ³ŒV8‡×¥#Õ+Ò¢fnø…kŒ¦Ldå‹(œ*ZÁVçœ	),R„±‰~@…Å0Åuï[¦ Ê—&yáÎ³Þ®I•œo~²RŒ"«ëÕ‹RÅ"´Í.÷ªýÕ·¯@ŠJéóÝxMA¥T CÝ¤Ë²QÅOJëgMc!²õË<Úm	Qš¦Ãá
+RÐ‹‰UÖ:~”Æ9¶%ÀD²¸3*Ut„™˜óìx›ÃMu»nöÍSâ×ÄGì™ÅEÚÐINSÒ©#Äªà´é”Ð‹!.vMM¢ÍÒéí|·—ÎSŒ¿–*äè\‰5/ÿ÷Ž7Ÿ=%r”®£ŒEûåj]ÈŠœ3›ßd’éM¨rŒv7¡È@b›¥‡…‡BÍçLf÷…*Ûg©¼+¦¢Y
+Sà°žÂ’ñä–ØiÁ³fV¸‘gwi‡döÍžóóãÔ³­{wv%ÅîŽDƒ 
+&®Ýâ†µ|Îb“ÃÄüoŒSßž¿ óÓ[ÔY?g˜	"Ýµ´ }‘c#JQÀ‹!ÃÎ¯9\§ÑÜ¢7Kâ6Œt¼°¾k¶bz˜9¾Ç‹Î¸5KÒäfÂ5õ1ØªŠ4©U½íóÇ{ÛgBÜê÷:cV/wÎ¼ŠÓk†	N;î¬;2M†C #žÌ¶?UP”ÖÉÐxŠZŒÔÍdTPÓd8ÜcÚ“§+H7C\0î6‘
+’2tüˆÇvÅ'Ãâ›Œf¶£tDckž;¨t-Öÿ+ë¦¢qÎd¸Ð»2Œ7Åq8¥Aºó”ZódxMmk†W«Î˜ìKáâ6)|à#QB†f+îŠ	,ßätl"¸;O]#F†•=4kž £Í¦Q± Ï'[š
+–Ï©Êr«h!cO×íz›,wØ>PáS£tF”l&ÓKÅ|»ëÞŸ$=²ÔÑSþò{¬tžàÝ%9×rcëÇ/¿%1ÇOXa÷ÞdÀ|ïbði€³›¸¾Ç÷_Q–¥eËˆ÷%ø¿ÿ/"©@ÿ'×Ïÿü×àç§Aù öG¦u?D>Î6U52o¾{×±–=ûã„ q€9[‡æ«Ú`nž{£ø5$~.%~~ƒ›Iñ¶ß$Ò/Øð©#©;&Ù Ò/”¾ÄK-tåŒÖ{†®Htì„6;éÈà–í<p¬aéxK<²ß/|EùûÐC|±ÌRÐL¸>_^Q#ŽVeÒA{·lŽ¿¾?$¶±wd8 d/éïÙ‚£™¶+¶Ál¯`ÝÀ<Š7)æÔûï¢¥cU‰Um÷Ûèâw_pŒ™õC†‹±E{û³#Ã=¶õ­{qõÜ"‰vÀëÐnOp¸Êeûâ6æ
+KÄ1ØõýíºèNiÇ\Š45“ž=
+|{³íÞo{*ÀÎR“BZ¿3a0:ã&Â;²M[
+X±× ´˜<À=þÖ–VIâ°«>¶§gnOOW!m£aâÀözš–©šÐ¶ÞuÂt¯ Ý˜…i–c Ø@+x€HÛ_¡ÐÈË÷R+ÑˆCs÷ìÐýšì÷Ÿ%hÈ:ð»ÙžÀÚó…Ý£¹ÚæêlSÇ†åÌÂ#³½’ÎC*ê/©õíKÐê¤LÖ€ô@…8JÌg)Nœ†kÉôË™ùd_µ]Þ§­÷
+ÝÞ&Ö¿c	â×ÖÑ<{?ÙWmÝnmÍTöÔ±¸¢ul™8²yšÀ‡8Ê<6Ý‚Þ%6³¼¨£ÌÕ5[þpd-ºuÊeâmIÚÛW(q¶ÏË…3-^8r¯WT(qË¤xf)0þ,Ê,ã0R,ãë¶°N˜¦Mè‡cù|Ì}‘›þ3÷œhÓúŽ+o7ŸçÑ¼u:äØ©ªöi³ó$WØÒèÞ¥¶–ió™H¶ŠâM ÚÄ÷î)M*öI±Â‹Ï³ËÏKÛ¹±B¥éÆUÚÛ\¬NÙï+,«è¼u‹ÂkÄ¬
+en]ùÖÖ.%6ó4K\t‰ç§BÁ7$¦ îYÖÚ‘N˜¦D(Kg8dŒL<ÛÕÙz÷>°G“Eá(¾¹ÍI!Z·~¾0®Ú¥ÄFb¼èøÚVc’…*¸n2kìØI@ÅfR'J|’‰}ûÊ¼Ýz¯QhòR} Xöì<(.n¼Môd¨“3Ç—<ñ¥ÈÆKwº:l‡”˜i­<óÿßÂr²¼¬´^šõV)qyÆaÜÀTžeBj3O×68¶H‰ÇRÌ0õ¶×æ7*:þÚBi0K‰ ŠæÊQñk[&PXÙ3H‰ŽÃcgï2IÌQõ$dòMŠ<kK¥Ñ0U:†ŒºAª³O‰•-ù`ù¯§?´ç/0+ë,5{Ò8%Jeãh¸í½2†ÛFÚvÉ²ÝF—iZô)¶yNÁÚ‰ôˆÚpãž`ïJû¹ÅØ6?×ú0¢ÛS¢Ä«?ÅøXYÔ½Ä6ÛÓ'
+§l“d4ì¨ŸvªI€:­[‘ä)NÕz«ƒµoŸ«åJ{ß@cÙ[*XGÆ •ƒ)ëfË¤ø÷ýP1
+¡²%Ê"Ð6fX6Ø¥Äâ05ã¡i!önÌ¯·bw¼-œFÃ½ óÄôÂO!’¦ZØºy¢‘UU†9	KÆÛFî o‹ôÊ´øƒ¶^&+¯Êô‚Ü,³è¡‹6‹Fv‡B”è1¼Aã­0Óa†ðPiì;÷¦°b°†d¼ýp‚Ÿæ£¶þÇ¶ß&×’J	ãícw
+²A­­Gâ•¯8s'‘Rø‚Ïe¤Õ‡áýkÿDo¨KœŽºøòÖ3g‚0ï×åÉ“Æ#jG·»öH¥ÜÐ%^t‹p©StGB”èaÈ\wýÅwñ#K@ kÜËÜEdþ™ž‘»ŽRõè
+°Cg»ã)ãpçÎ÷d2|Ø®sÏ–]a<%Ù¢£ø&Rz˜Ïf)\aoÏé©Én%àÃ?Fi‡«û-â= \î•ÿe\#Ò¶w¡†-¹*B€ÚÏO–¾ÊÆá¿ÿÇß–ÑK3$sñåË¯¿~ÂÒ4Ê0b|}6{åÏÿý	aá"K1 
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 36
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455611511
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=ccl!'school.courseware.log.enable'
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:11 GMT
+Content-Length: 90
+X-ServerAddr: 10.128.34.163
+
+[{"value":"true","maxAge":3600,"collapsed":false,"id":"ccl!school.courseware.log.enable"}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 847
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455611698
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=monthly_result!current%7Cmonthly_result!current%7Cstage_progress!current%7Cecapi_recommendedclass_v2!current%7Cnoticeboard!current%7Ccms!Smart_NoticeBoard_DelayTime%7Cecapi_3rdpty_survey!current%7Cecapi_npsgroup!LoginPage%7Conlineoc_state!current%7Cblurb!708648%7Cblurb!498117%7Cstudent_platform_version!current%7Cmonthly_result!current%7Cgraduation_state!feature%7Cecapi_shopping_entrance!mypage%7Cecapi_notifications!100%3B0%3Btrue%3Bpull-home%3B18%7Cecapi_phoenixconvertion_detail!current%7Cecapi_phoenixcouponawarding_detail!current%7Cecapi_shopping_entrance!current%7Cec_bubble!remindersettingsms%7Cec_student!mobile%7Cccl!%22EC.PhoneNumber.URL%22%7Cblurb!644730%7Cblurb!649577%7Cblurb!649578%7Cblurb!649581%7Cblurb!649584%7Cblurb!649585%7Cblurb!649582%7Cblurb!649583%7Cblurb!649580%7Cec_bubble!couponrewarded%7Cintercept_page_state!current
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 1910
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿíXßSã8þW„ïá^Bœð{˜Ù¹‚,Ìr!•ÀÞM-[)Yî$ZdÉ'É	¹©ùß÷“í	ÃR÷x/)ÛêþºûSw«•ß¾EÂ(ÅsGit<âÊQ#’xŒHð\-	“e¤SJ…âÎ
+§;[¢°–´¾7~ ¬—#)¸—F»­v«õ±õÑÛ‚>æ…RÛ“ÑÇöQ	#Ý ‚œ‹Žƒ@ãu§ò‰!-„)r£ùŒÛTêñ0%Ï¥ZñÎMLžcí¤Ä–‰¢>ü·\¼‹¼ôa!êÎ›Lþ—ØWSXÖÁ£¨9eÆ\GÇQ€Qd¹'6Ç"SÄ­<›I?a¢Tg%M,çâÞAWfã[« ÿ³Ð&ÞoÇíÃxg/žâ±}ˆ‡Aíâ)ÆÖ:½ÈÆÍ^÷”¹ÌEÇß"Í3¸Þ~eË“Áàl€å¢&‘+îGÆfqÎÇ»ÄFxž¹>išõ)“:ðTïò÷pÍ’ºá‚©ÿ» äMl6ûÔoÑ“:¨kñÕê\‚ž’
+¹²®¤ûE¦ÈžW+3ÚOÔõî
+åWöº.÷GrªÂ&h­F¤éÁ¿øˆn‘+òÔ#+9P‰Ž!+Ý™æ(¿+3¥k”RÜ„»óóScî)í(´—:9Ñ‚Þâ´.
+skÆ–œ[qZº©tO^ @8ÿ†‚ð¨È·DöÆ¢ðºÆKA½ª­ ²üƒïÆB
+oÉXfe ÑÄûÜÇ±Ë¸õ÷;MÒc%ÝÄ›™n"öx(³±‹Mb(N¸ÖdcQšÙöÁÎvõ­™ëñ²Ò÷0oªàH!ÓŸ*€R¿R‡b*Š~nlJp²$Ø‘™œ@nØèÐ›ÐšUŠÌ“f±°1<D'4¿ß™cTE@¬KÚƒŸ;ò‹øþÈÇp²Š.pÐÙlÖ¤Qà¨)tl´’šb•Çx¡T›ÜåPz5²2mC»ýw{*¯…ó–ÝÚSJ™	{U,xxƒ¿ol­O{–­×%!×¢*“tqLIw5ï!÷B‰à éò©soì±…þ¯(uó‹Ô~)QrÖˆLî«# $Lh4×½›Å‡ç²!(MÝ"K‚FtÔj±ýƒÃ£­O‰ý|gïô^«uP1BG®T‚‚º­Ž¦
+¨,‡*gP²ž2®“Ÿü²åÑDV˜B‡ôT4%Õ1)=v›ï)5%qFKäg¬Êl]‰ns=…Ä;'î»ì‰a¡„ùr¹i¥÷|Eº/—OºÕ—Ë[ dÒö®¦<ˆÜb°Rját½ËÖµðz«¥ÖƒÜäB%‡^Ø»Ük­;ß9ßq
+‡4
+î¥R®ƒ¨¥Àtµt­SOç–ÀÂò#lŒdÝŠë”ëc:4…Œ kjûôŸBÚïÂÍ®)›ø
+¿'ý|5Gà5äjrÐTÄ¹+(G˜¯ÈüÍyÊj!×ÆjU,`ŒÌË˜ŸI
+ôMÿ8,'H£·jAA½JUW&QŒñIB	nf.ð¦æ_¤spæAì‚ƒË¼7è³W\§¡TçËív°#ÇÅ	0–’KmžçJ’„cíÄ9r“÷’z´ìusúØò´(GìºFT%wè“÷óQ¿.°y.2È‘n /ûºœÄ0)Ü[¶Æp†F0€tQit]™DbˆnDå‡n5®f‹S®
+äYÔÞ=Øoµ[àÁf›Äb[¶j€`\rLÂhULUþö)LÿÈÁP%U<#^Þa6ƒ×‰² ì ØX”04wJ™‹0‹¤ád­±Ñ^­I‹r:±˜c4À¹NFh„Y]õñ³Î…ödå>´õûÒ(UæC;ÜÄ:Fc[ý»n½½×¥Yå&»§ŽmZ.lsôÝ:MÄÊ-è½ÇÑ.ÎøÃÉÛµ{ÐÂd±Sdn«ôfØ-§€SÃm:ü™ŸßH\VŸÈwíp7Áõtü‹&$Â,"îo5“„së°ut°WÝW1/å”Ø
+q1!ËÎ‰Òpøü5ì½Gíöa9}Oë4‡nÂÑÙ0˜mr;1Æ‡ÚÍcÄ‚ÊŽëÕ¼H”±’I>1št‘%d·ÿpoµ/„Ú:ë4{A¹[*7oû—¥'«Q"õQö–]©è:ØÛ;Üm­êTwGÖ?»ºèþ|Ö«§Øû‡S«þ]hflŠð†MHåávÌðÌ½'†7[]‹É1£™G~4ØŒþž²„Ø]o¤]ålp5`‹f>ÏMÑ|‡Ÿë²åBç…¯ÜaUkay Ÿé’ý¿nå¨½†äþpÄä£±5¶ØHZçßØÑÞLrÍ¸Eù7ÅËï±¹¿ÆæWlfƒ]°×>ì“%A¡ùr÷Þcig¥+>Gž„Ú³ïÜ]ymC0fLzVä¬DgÉœ
+NÈÏ]ô)ù|5g'B˜BûOqòù.b8Ô‘ÊRÜ)är)Õ¯ÏF6¨ÇJø=ÎVU;%ëª¦¹ÓóÎ¢öÑ_iÉõ©9ÌL˜p†5Ì’Á’öÑ÷ßÿî2ï  
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/shared/headersetting HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 0
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 700
+X-ServerAddr: 10.128.34.163
+
+{"ContextData":{"MarketCode":"cn","CultureCode":"en","LanguageCode":"en","PartnerCode":"Socn","IsSocial":false,"SiteVersion":"development","MemberId":"23981273","CacheServer":"https://smartuat2.englishtown.cn","HeaderVersion":null,"TooltipsUIVersion":null,"UtcTokenDate":null,"Token":null},"HeaderWidget":"PepperCommonHeader","FooterWidget":"PepperCommonFooter","Logo":{"ImageUrl":"https://smartuat2.englishtown.cn/_imgs/logo/englishcourses/cn.png","Url":null,"Text":"Englishtown"},"CopyrightBlurb":710033,"CopyrightText":"Copyright \u0026#169; 2006 - 2019 EF Education First.","LanguageCodes":["en","pt","sp","es","fr","ge","it","ko","ja","hk","ch","cs","th","ru","tr","in","ar"],"ExtraSettings":[]}
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 17
+Origin: https://smartuat2.englishtown.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+X-Requested-With: XMLHttpRequest
+x-components: ajax
+x-request-id: 1561455612335
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=context!current
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 278
+X-ServerAddr: 10.128.34.163
+
+[{"values":{"countrycode":{"value":"cn"},"culturecode":{"value":"en"},"partnercode":{"priority":100,"value":"Socn"},"siteversion":{"value":"development"},"studentcountrycode":{"value":"cn"},"languagecode":{"value":"en"}},"id":"context!current","maxAge":14400,"collapsed":false}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 17
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455612336
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=context!current
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 278
+X-ServerAddr: 10.128.34.163
+
+[{"values":{"countrycode":{"value":"cn"},"culturecode":{"value":"en"},"partnercode":{"priority":100,"value":"Socn"},"siteversion":{"value":"development"},"studentcountrycode":{"value":"cn"},"languagecode":{"value":"en"}},"id":"context!current","maxAge":14400,"collapsed":false}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 295
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455612371
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=member_site_setting!'school%3Bstudent.writing.version'%7Cstudent_feedback_list!current%3B%7Cfeedback_report!1%3B5%7Cecapi_3rdpty_survey!current%7Cecapi_npsgroup!BannerVertionB%7Cecapi_mypage_selfstudyoffline!current%7Cecapi_onlineclass_latestclassinfo!GL%7Cecapi_onlineclass_latestclassinfo!PL
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 779
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿTMsÚ0ý+B=ôâÁ8_Mœé!ñJKS’é!C<Š½YòH2
+eøï]AÈÉ¡ÃÉÚ}Ú÷ö­W4Ì˜¾,Ô€KãµªâYÂ,L•^Ò˜Ž4 –[¸¹VjN–ªÖDÂ‹%OM¶d%<mƒ®•È1p¤ù1Hâàñ,Su¥¤¡ñãŠºx28éà‰†’qIã(ZOÊ2Ë›8z=þÀcÁåümÚ>2i j-/4ÙL)Â"+ñÉX¨¾vèz²h¦„`•¬¬`Â@@9.)d¬â©’xd®ÐT`ÍÆ6kŽš´Fº‰äõ¸W9[~6¤§‘ß†lŒEÏØÆÙòZ@ž8ä&ÆþöjôœÌ;-ÎXÖ[êß‡ý;D÷tÏ©@‚È¦dS×žð{-Ux…ÑYx…\Fg¸¸]VöíßÕý¿ X¦Ä€(Æ¶ÎÑ +ZKnïÐØƒ\’(F= ,—SC˜Ì	—V«¼ö­
+¨ c”¼÷&ª¬X ƒæ3‰¢h–´ïÓ¯ñž»|“¨hg¦¼œš­ºÉ†ôQ':G9.zÝ¾É„QŠ¿F‡à£”“ã“­AÝ È
+åDIdZVäc6>4NŸ¡ëu@UQ`?±Iè&ôJãñ×Y¸a«ˆûG :NlÑ/¥çf¦ª½ó‹½ã/ X?ïGç£ÍLí•ìF‹$Ý»ûîO’®ÆcLy[{É%w>AEt3\{Î:ÿâ…‹ÛåÈ9kX4ì¼¬ÖwöAÖ8s$iA“ÄÓF1>œÇrcV×åFBµÁneµÖˆ„e­(·Pº¦OZ²—+gþã³NçÝIw@˜› ù3Ëæ©À×n‹xÙ@n<l-5°üÆÇcíÒÒ/`¥ªý²bSó¿ØSüî6}™Ã¾du»×n¾ñÃvÓð5*ü]©†JiÛŠ.O›ÂL »bzÔî`Ÿ¶t£w¹–P>ƒN
+j”°hÎikcÉK/CûæîsÛ>·ø†üò"Î
+  
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|studentcountrycode=cn|languagecode=en HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 179
+Origin: https://smartuat2.englishtown.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+X-Requested-With: XMLHttpRequest
+x-components: ajax
+x-request-id: 1561455612440
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=trackingfield!'user.firstTimeStudyPlan'|trackingfield!'user.hasSetStudyPlan'|trackingfield!'user.daysSinceEnroll'|trackingfield!'user.velocity'|trackingfield!'user.hasStudyPlan'
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 414
+X-ServerAddr: 10.128.34.163
+
+[{"value":"False","maxAge":86400,"collapsed":false,"id":"trackingfield!user.hasStudyPlan"},{"maxAge":10,"collapsed":false,"id":"trackingfield!user.velocity"},{"value":"12","maxAge":3600,"collapsed":false,"id":"trackingfield!user.daysSinceEnroll"},{"value":"False","collapsed":false,"id":"trackingfield!user.hasSetStudyPlan"},{"value":"0","maxAge":10,"collapsed":false,"id":"trackingfield!user.firstTimeStudyPlan"}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|studentcountrycode=cn|languagecode=en HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 179
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455612441
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=trackingfield!'user.firstTimeStudyPlan'|trackingfield!'user.hasSetStudyPlan'|trackingfield!'user.daysSinceEnroll'|trackingfield!'user.velocity'|trackingfield!'user.hasStudyPlan'
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 414
+X-ServerAddr: 10.128.34.163
+
+[{"value":"False","maxAge":86400,"collapsed":false,"id":"trackingfield!user.hasStudyPlan"},{"maxAge":10,"collapsed":false,"id":"trackingfield!user.velocity"},{"value":"12","maxAge":3600,"collapsed":false,"id":"trackingfield!user.daysSinceEnroll"},{"value":"False","collapsed":false,"id":"trackingfield!user.hasSetStudyPlan"},{"value":"0","maxAge":10,"collapsed":false,"id":"trackingfield!user.firstTimeStudyPlan"}]
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/translator/Integration/GetAutoLaunchStatus HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Accept: */*
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 1.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: et_ctxtsoc=ver%3d1%7c0%7e%7e; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 5
+X-ServerAddr: 10.128.34.163
+
+false
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 77
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455612490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_etavnum=1590226545331%26vn%3D15; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; s_etadslv=1561347005976; s_sq=efenglecommercedev%3D%2526pid%253Decplatform%25253Apage%25253Amypage%2526pidt%253D1%2526oid%253Djavascript%25253Avoid%2525280%252529%25253B%2526ot%253DA; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver=1|0~~
+
+q=blurb!675775%7Cccl!%22campus.alerts.enabled%22%7Cccl!%22IsFriendsEnabled%22
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 242
+X-ServerAddr: 10.128.34.163
+
+[{"translation":"Back to top","maxAge":3600,"collapsed":false,"id":"blurb!675775"},{"value":"true","maxAge":3600,"collapsed":false,"id":"ccl!campus.alerts.enabled"},{"value":"TRUE","maxAge":3600,"collapsed":false,"id":"ccl!IsFriendsEnabled"}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/community/widgets/headerprofile HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 0
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+x-frame-options: SAMEORIGIN
+Set-Cookie: CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e; domain=englishtown.com; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 182
+X-ServerAddr: 10.128.34.163
+
+{"AvatarImageUrl":"/community/imagehandler.ashx?id=ADIAMwA5ADgAMQAyADcAMwA\u0026ver=AC0AMQA","FirstName":"10.128.42.142","LastName":"23981273","DisplayName":"10.128.42.142 23981273"}
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/school/menu/top?id=23981273&d=1561455612600 HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: IsSGC=false; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+X-UA-Compatible: IE=edge
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 349
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿ¥Ó]KÃ0à¿"¹.‹›ŸDp:,8Wö2vÑ¥g[0é	I–±ÿîéZ™ôªÖ»ômrÎÓ49°q"³1dž…«{–Î¨¤˜Ø,û‹t²ƒ…U,d,`å¼(=/1JËå½WÔÐ\ö4g_9åeDOÕRîÄQq]*ÇAÐ›È-¥“EErëá\üM:*°Zƒ¦gÐÖ3Do]ST…,`•‰W­	*qÎ"êÆ¾rêÿÈu[ÈÈJÈRW2î©gý{ê”‚
+ÁÅ>Éù¶šË)î°77mI³=#³]Ãô´ø¸O¦/Ô½F Ó˜oÑj~:8®^ø(…L6¾ÐhA()>iMñm[ñRše–Oó†zÅ“è}N€
+Mƒ’»¶’™7í	ñë¶Õ)õþb°ØâV*ˆ•wåÝfaæ•
+Øˆ>ì99~)j4'  
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/community/imagehandler.ashx?id=ADIAMwA5ADgAMQAyADcAMwA&ver=AC0AMQA HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e
+If-Modified-Since: Mon, 24 Jun 2019 03:12:20 GMT
+
+
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=86400
+Content-Type: image/jpeg
+Expires: Wed, 26 Jun 2019 09:40:12 GMT
+Last-Modified: Tue, 25 Jun 2019 09:40:12 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+x-frame-options: SAMEORIGIN
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 2868
+X-ServerAddr: 10.128.34.163
+
+ÿØÿà JFIF       ÿî Adobe d    ÿì Ducky     P  ÿÛ C 		
+
+		ÿÛ C		
+	
+ÿÀ  U U ÿÄ             	 ÿÄ B 	     !1AQ"aBq‘±#ð¡á2brÁÑR‚â¢3Ssƒ“DdÿÄ              ÿÄ /        !1AQÑa‘±Á3¡"2Rðqb‚ÿÚ   ? ÷jiîVâUYZg¥kÂšÌsOÂ®M~m^NÓöv€0g<Ïê}Þß0˜
+Ìø«eÿ Øeà%.n"”EÇ­p™b5#°°:¹µg)c,Ô©»wáYÊz-ê.c}Úî	7-î><Õ¥ðK\’yB?)JÈ³ÈýnX­<4 ×7[+m­9s&ÛyîV¹›¼—”÷j©hwì?¨h <’ŠÑ©õh
+2Ïp+Ó!Ð\ùÞsuZqì£ThRÇY¤=ç@8øhAt}ëgªWy{ûÝƒµ¯ßdÆÕ˜è÷Že¯‹ÊR
+Iðr
+];Ku®YðêfÝoÕèŽ\z
+x­ãH¢EQUE5mÊ¥DˆIiËáž˜M`¹‰Œr!ïWR{Ž§P¡ÎYn]ï‹MŒß9ËwSUYoe¹ßÁ•¼k‡K8¯¥¹5”™½ý;õï$ùK
+¹ê
+@ë‘•m±ÛªÝ+ç9é.â¤u· éAR* qÕMû5JÃÃ¡ofí×LüF±“Ÿ
+g9#®€îXSâaÐ~ñ½§@E€èÞ¨ç®vÇ§»³5c!†úÖÁÒÂaÍ'œˆbqíVpuí±
+{‰3Ë~z`Ú<÷±·KkX¢Zš-Y‰©$ñ$žÒO=lËc"Þ„Ÿh´j £¶K»;ˆŠº0¨æ*9¤3ÑMórîMƒ´sWy×w¸¸?)ø®#_.b}½ju‹¿
+k´ÙØž¨'ØwZëÈõ!Óà?Ì>Í f#úvhÛ 4ÇÌ#ô£?NOsVú
+ôÕ«/•wù¯>'Ýæ#‡%cBIr‘±Ä
+öp¯=kéfN¤ó*Wñ1Ó¿¨j(Éª9<?1º®Í†ÕÅOœ¹O÷Ò@ ‚ß4ìDqæn=•ÔM¨*ÉÐê	ÍÒ*§g—ol\h·ŽýŸ+•„ø
+Ÿ ¹04)%ìÊc$vŠ)ò[“—ã.Þ‡£„#ùJ½‹©Jû²²Xûû½–ÍC’ÅÀ÷w›gpÇ’âÖ ÒÚÏ„´kâ(I$VœµÒ”âÒšT|W©ËŒzªàý¿åêG“ÒœWî¥ÎIb¯øôÔÖuïÊû¼?‰8›¡†ªˆtø}ÿ Ù Üô´Áó7¸2bvöÎ³	¶ç–{Œ•É¡o.Á¡xãZŽRH¬OðÓ·ZNN\½J7Ój*<ÍAýJÜøß3Š´Â\m‹ ¶¸ŒFK—¨AWêGbåK’Äñc«*Þ/ZñÄ­ïÉ`’¡_ú‹~[ÌoNöOÙ?äükßO7Ocü¥âG¼ÿ XøfwzîýÍj1¹”Xì(8<"ÆÑ‡*H¨K¸§ÂÌWÙ®áµb–<Þ'2Ýœ°oÃ¬EP Ž(Ö4^T ½©æ•C:YåñW¯A(·yy2}ÜµöylÃ\ÉV-EÑ¦1.{ŽêÒ]Åé•äAãÛo5æ&ñE	‰îY'ûÈõ)îb;¨ßA:ns.ÙÎ•‡!£nZÏ/˜ø}ú-Ï@Ls|ùØÙ½Í‹Áç¶ý³dov´—
+uŠˆViínU<Ãøjzy°­*h
+Û-Õ	4ø”îöœÒk€¢#©7RVHÜe`hU”Ð‚0u¤gÐ¨ï:
+ÒTõP­8×@1-ø,¤ùmÑ¾.à’<mý´xìeÜ †»q)’âD¯ªBŽ®DÖœŽ¨ßMQC‰vÊ-·>fyk8Ð1ðûôž€ž€«’²\ž:ûòÉ_[ÉnÓÂí©æ)^´u «-j5SGR$ª¨yŽ–÷Ö79^UÞL¾.ò{L¬’1g{ˆ¤e‘Ù›‹uŸO:×[õM&²0èÓiæº¨
+…fR+
+©¡­áP{u ìG%±ä/6ÂÉ-üåž9!Î:ÛÆíÇÂžH¢ƒÈ÷k;Ÿ²ð;Õ×êuÈÃPæ¬ ê#‡vpGð7y›¼v_Ì3×QXZSái˜)sNÄZ±ö
+MT~çÃMM%Äô×¶Äc,1VH#´ÆÛEkkìŽ£êÀ”œY¹EDYmA&>~€ƒ7ôîÐSÙõhÙ \}/{ŒŒ{ÛmÉæù&ŽÓ)€vr$gË{bhá‚Ÿž!FÐ´¸¢Ñ,—_ÙBêÞ¯Ts8çI¡9¢b“Àà«£©£+«P©TkB…†Ô¼÷1[ÖIg`‘Æ ³37UQÄ’x 5!7¡þ•d1—ƒ}îÛSg’hZ-»„”}å¤rŠ=ÄÃá•×Âš©5ñ1wr¤´G.,¿kn×Ý,øñ5Õð&=ºðûÿ ³@ßïw em `k 4Ì•Üqzih&hooóv$lRD’ÝÍÁ‘H*Uc&£–®Xªîc•RõÒµdÜû_qªAêvé²h¢8½AÀÒ+æP S{ ït±þÏW´J?Ã“ô)kŒ¾E5ŸxfÛ>’Óñ	ëEà´çø&ÄÈo)ÝÁúzswôúok÷ú¶Ý;g—ÓŒöwst²A¾7(¶ê¶µhÔ?àOi#†¡Â{Ÿ›¢ä½I×~
+¯›7ÏË¦æ›/µ2¸Lì—Ù¼NâKË‰Ø´³Å‘îRf'½ÚEÿ .©Þíé’k&‹–›š¢ÓÍ:¦[+»v
+ >¿»=ÝCì:¤ÒRyshÇ'-m\~Ý ³zûéîæÎÜcwŽ[œÝ¾Ùà»ÚÉâhÑ›©îmqw4×‹O.“~Ïz1¬^ãÔ¥w³)}Ëp{kÈ.ãC pjíp ŽÂ5 ÑœCô­kÒ+ôj(I%Ž/#„UâI4å©@Üþ€`7mÞïxãc8ýž-¦´ÉÞ\)$Š%²ð-åÈyŸº8¨$’KÝÈèÒóò-YÂZµ,¼ÇMÜ
+eše9eï: "_¸cÜëö 	Ä‰—ªG¯Y¨)Ï¿«@ZŒEAGcþ_õhj‡ˆý_·@}„û8h[Õÿ èGæw_›‘¼ÿ óÖ Þõí
+‹n¯ùÞ*kFÛß¦n]J>ÍqÏ³3@5¾Ä-Õ_{%¿ü'ÇbšZ8½Uÿ gWk>Qñ}
+MCœ¼Sdì!òò2Œûæ%Ö?ûÅc["ÝžVk_û§èÕ}ïú8SýsêXÙö+{ò¸ü¯&/ ¯áú‘åÑÑOM
+)NTÖS5 ¸NÖ?WíÔ”‚qv§eýZ !bò$ûÉ:|ÄãÐ;›øôÿÙ
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 14
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455612687
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e
+
+q=blurb!679313
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:12 GMT
+Content-Length: 98
+X-ServerAddr: 10.128.34.163
+
+[{"translation":"You don't have any alerts.","maxAge":3600,"collapsed":false,"id":"blurb!679313"}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 136
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455613216
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e
+
+q=blurb!714870%7Cblurb!708956%7Cblurb!708955%7Cblurb!708809%7Cblurb!708706%7Cblurb!708809%7Cintegration_student_feedback_list!current%3B
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+Content-Length: 551
+X-ServerAddr: 10.128.34.163
+
+[{"items":[],"maxAge":3600,"collapsed":false,"id":"integration_student_feedback_list!current;"},{"translation":"EXPLORE, LEARN and BUY more EF classes.","maxAge":3600,"collapsed":false,"id":"blurb!714870"},{"translation":"Unavailable","maxAge":3600,"collapsed":false,"id":"blurb!708956"},{"translation":"Group Class","maxAge":3600,"collapsed":false,"id":"blurb!708955"},{"translation":"Private Class","maxAge":3600,"collapsed":false,"id":"blurb!708809"},{"translation":"Book your next ^classname^","maxAge":3600,"collapsed":false,"id":"blurb!708706"}]
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/community/menu/load?id=23981273&d=1561455612600 HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+x-frame-options: SAMEORIGIN
+Set-Cookie: CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e; domain=englishtown.com; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+Content-Length: 36
+X-ServerAddr: 10.128.34.163
+
+{"MainMenu":[],"ProfilePlusMenu":[]}
+
+------------------------------------------------------------------
+
+GET https://smartuat2.englishtown.com/school/menu/all?id=23981273&d=1561455612600 HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7e%7eun%7e%7eu%7e
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: IsSGC=false; domain=englishtown.com; path=/
+X-Powered-By: ASP.NET
+X-UA-Compatible: IE=edge
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+Content-Length: 1393
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿÕ˜Qoâ8Ç¿J”}ÙJ4¡´»=õT­hJ»h¡A„"­öª“ø6±#Û)Ë®úÝol'4
+ôb8ÝÃ=<Žýóß3ãq~¹CDèÓÜ½øöË½&"KÐ:ä3ÌÝ‹“–ÛOÑßóÄ½pÝ–«úõ%N'ël†¡U½î}f)ö:í“ô™àÚUü3¯ú"^2–øé:ƒá|ƒ¥/¦DÇ‘<Ç/ƒˆ€¾=<·ê<[ž€å\Ô‰L£Ûr
+<4!Ôç?µ˜¿x‘Ìgk%Ço0G!G/p¢ÉýõWh9xz›íˆ´ÐÞpmV«(*›2\;±–fƒQîÖ{× Í“ä°])°Fœ-8b++,[`¥ãŒq	æƒmv®`–ˆ.À»wy6ýƒ„ï>ÅºËFäƒ`Ï,Ü¬€Õ®6Ð LájÚÏœI"h4Þ!q-çŒ§¾A¡|T/DyÒ¶Çì&I/îf™Þø@U Ù#I°ƒ²Ú
+R¡=ØÇt‘±Œ1•˜%	Ž¡Ÿ€Ž6¸Ï;ò‡è|$HÎXZsÔM;P\xhÀÙÊª6E6s)†×™$t£h†C˜ý`Œ}öïŠ±ïšG±TòÉU~q‚ÞÝ¤7v4Ô¨Ì+)¡4ÚXN÷ð0E8ìÂë:£qÚô¡sÖ£Z	‰Ÿb?KÞ	‰³Ke=ˆölÚ&„âHÂaØb
+n®à+ûüš;ˆ:L÷u„êì Mï—Eàøuh3`4ŽhŒ¡ÓAkù°ÇZn9Ë³]ÎaÜâvÞŒô@Sè®_$ðÿ ºó=èà T±|bºÐù§â¿Áýx˜ŽòãþÝmD%aMÔG3À1ä$ÛChg
+²Éí:Ýp‚éLWœ¢h}á„óFúsÓ×‡æAwUU,ò¸FŠ–,Ë@Åš£^Ýu†á¸³¿!ž(^üDb2»|Ì×)ã8NHüÞ9€ø£-ñ”d#F¨3&kÔÓþ(ìßM À@ÃCI½Ü£ûAöˆ’¤A_¤ˆËL‰WfÉŒ“Ÿ¸Y¦Ý¹¼cƒ°4Í)‘kïF{ôÏ1ç(©±£SZÉla	)tßôò+½öWƒïÚs[‹òLU©Š·’eŠÖ
+'<4 lÕ{¸Z1[„ù‰ëw ÂF²¿Ð1'™¼xbdö~EèŒ­<–aúþ¼ÝîœûA.$\ïx1 3*Q,sáåSŸF±ºßM;ÙóbËüÄe'ó·håXŸ.—”µàhƒá.×X´€…%É#âBÿ]‘™\^ž´ÛíÖ“ÅR^žh›ŽŽ~‡UTtœ£Dà­[d=f;[Ÿ¡xöÂ»Aÿ®ç…Á´ÝÝ–[­¡òM‰$aÔÑç˜Œš[U6‹ÁVaÜuÑÕn×ªsžÚpjÑ½ÛAxS2Ã&+ä	;oƒ.¥Ì.|ã9’¯¨¶%[Q/f©¯hö²ÎÅÁgõ©ý:®ð‚P
+Åþœµ*„*çÞÆæ(#¬ÓÞì¾j¥âí¥RÿO’.lÜqNŽc/±ŸÍæ~×#(¢¦@Û¬æô Ùx^áÂ¯‘ŒéèÐÚo›ºÀ™˜ˆºJ£Jš)Ú\ „­>ÿ›ð~3tTÆ~h¹#Îæp—%¹þË¯YÃu7†<Õ%CE`øz‚Œa#08Îëâ;]¿tip„]µXÇ&\ŠjÊÓ_é”T%];ŒÏÀmÝò;×¢(Þ÷uG»‚v«u6`–×Å4/”‰îä›}Œ€­YAØù(î0cÓ;‚êâ¶Ÿ(nÀ‰¥õÈ›Ó»qJ«[J«’ä–Õjåá¹Ê›`±@~þ}Z”u  
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 65
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455613590
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e
+
+q=alert!commonMsg%7Calert!gl%7Calert!cp20%7Calert!eftv%7Calert!pl
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+Content-Length: 748
+X-ServerAddr: 10.128.34.163
+
+[{"alert":{"type":"PL","polling":"2019-06-25 09:40:14Z","nextPolling":"2019-06-25 09:55:14Z"},"isSuccess":true,"collapsed":false,"id":"alert!pl"},{"alert":{"type":"EFTV","polling":"2019-06-25 09:40:14Z","nextPolling":"2019-06-25 09:55:14Z"},"isSuccess":true,"collapsed":false,"id":"alert!eftv"},{"alert":{"type":"CP20","polling":"2019-06-25 09:40:14Z","nextPolling":"2019-06-25 09:55:14Z"},"isSuccess":true,"collapsed":false,"id":"alert!cp20"},{"alert":{"type":"GL","polling":"2019-06-25 09:40:14Z","nextPolling":"2019-06-25 09:55:14Z"},"isSuccess":true,"collapsed":false,"id":"alert!gl"},{"alert":{"type":"CommonMsg","polling":"2019-06-25 09:40:13Z","nextPolling":"2019-06-25 10:10:13Z"},"isSuccess":true,"collapsed":false,"id":"alert!commonMsg"}]
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 410
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455614151
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e
+
+q=blurb!104408%7Cblurb!104533%7Cblurb!104534%7Cblurb!104396%7Cstudent_archive_writing!*%7Cblurb!104533%7Cblurb!104534%7Cblurb!104394%7Cblurb!104533%7Cblurb!104534%7Cblurb!716974%7Cblurb!104533%7Cblurb!104534%7Cblurb!658279%7Cblurb!104533%7Cblurb!104534%7Cblurb!658280%7Cblurb!104533%7Cblurb!104534%7Cblurb!709947%7Cblurb!104533%7Cblurb!104534%7Cblurb!492971%7Cblurb!92363%7Cfeedback_report!1%3B5%7Cblurb!449438
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:13 GMT
+Content-Length: 413
+X-ServerAddr: 10.128.34.163
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: Keep-Alive
+
+‹     ÿ¥”OOã0Å¿Š;ÇUXå›Ôá´ª(pa‘ŠÄ¡ÊM¦éÇ©l‡- ¾ûº"°Ò*E2ÜlËþ½7#Ï»{rØZ(ïî#¨:¥äÎb
+åF*‹_‚u}Ú­¤©¶ôˆ«?†éfò^£pFj«¤£NC	gºQd·l¡zÔÕ»Aë ‚Vî5e–ÇñQµêÍz’ÄœÇ³1ô¾B¥¼‘`Þ4ËFx7æ‰ÉF’þðnßÚÂæ[y°éË
+­;ù÷·V¤‘›®ß±¹’ÖÎÄ˜á¼| ¥¬'“¦*]$¹(>a_z”=ÜÛf',YKºw¨“Ogi!Ž7çþ
+Y|\Ç:Ù óµ µmðW,b!x1B_¢oÑVšÀQá"E2Â»Ô'•w‡†-ÒEØoi–MËUÇ6ˆõZVlÓõºþÆå\ðìm¬ß9CêôÚ ¬|îÙJŸ²ýXî|×—ôìÄŸ6—ºÆ=”I‡Ý¿7d/¨ö×†ø:h›Akep×7IN§ðzÿeÈÅ  
+
+------------------------------------------------------------------
+
+POST https://smartuat2.englishtown.com/services/api/proxy/queryproxy?c=countrycode=cn|culturecode=en|partnercode=Socn|siteversion=development|languagecode=en|studentcountrycode=cn HTTP/1.1
+Host: smartuat2.englishtown.com
+Connection: keep-alive
+Content-Length: 405
+Accept: */*
+Origin: https://smartuat2.englishtown.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+x-request-id: 1561455614350
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://smartuat2.englishtown.com/ecplatform/page/mypage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: vt_EFID=5E144A15-64DD-4FC7-B599-9A7FE5DE9795; vt_pages=ver%3d1%7c; _qst_s=2; __adroll_fpc=ff6bf94fb2cd39bfffbe488eddac9be2-1557108910456; __ar_v4=%7CXF7EHBB2YZHKFNTAXISQJR%3A20190505%3A1%7CERNVV6WJONGZRPAYTS2QZ3%3A20190505%3A1%7C3COMXVEPEVCLNMA7DHK3N6%3A20190505%3A1; lng=en; citycode=sh_sh; EFID=5B90BDE0-849F-4271-8CF5-EE80569818A2; nsplegacy=False%7EFalse%7EFalse%7Elogin.aspx; et_uc=1; s_fid=73C5847328322DD1-0DC5E6F97A3D3234; stack_partner=%5B%5B'socn'%2C'1558691257134'%5D%2C%5B'socn'%2C'1558691277892'%5D%2C%5B'socn'%2C'1558693319749'%5D%2C%5B'socn'%2C'1558693326026'%5D%2C%5B'socn'%2C'1558693398905'%5D%2C%5B'socn'%2C'1558693401654'%5D%2C%5B'socn'%2C'1558693422945'%5D%2C%5B'socn'%2C'1558693455682'%5D%2C%5B'socn'%2C'1558693497502'%5D%2C%5B'socn'%2C'1558936801865'%5D%5D; stack_partner_dup=%5B%5B'socn'%2C'1558936801870'%5D%5D; ctr=cn; ckauth=2dgrYv9wvKGW8w9bRDUdnA==; srperc=46; .AspNet.Cookies=1Fq7qKSUZv36hwKQ_h8I-PBt2QwT_pI9tlBzPvMgxG3f3NEv8yKOwchmGjTUQHmq8Jtm1LtiJtSBH5VBKSmTUFGM6RI-dVKv071u3aQ043QO8pytOCAQiCQ8CPpLmRZwNxnR-Q3oWe_7lzuCjE59nhyA9DC0HAw7Q0_Rv9bDAoPzwpaGkchps9pPY03djAMfPUfy9yUBX0vUYX8IvBr4MBDexX19FkxjeakK-OrsUwd17GJmUvcV_z0D4ncqOdq0IcaoqCmnb_x0Q46F4Ciimye83CrLAiRuMAkq8BPQLkxl5W8Z42ar4I-sprtdL8PYzxpP6cewwpY4-C-8L2mQDn2KNF3_CMjH4o2MojwL_AXJzS48AxHt2AsaUrVlavfKoVFcy5Rt5cRaw1nsjurwnTx0Z8EsBh2E5O85mMKfh0lc94_hC53FYoZplyVU9-vbfQp9xDyrQ-t1hN7Wi9jiInxigNTHsMNreUh-7k6NrYV7FNkNiI86mbj1nBu43W7OgvylzuTwKxg6aArTIdYZtswEc7riLTe1n1mciY0TPYuV6mXGimG8FDX3u7-brP1jCdiwp9YYdpYCxg3uKFaXkBuQ31rD_kDvLvrka6e9xXNzxSbqkUJtRlE6DqialeANV3uw3ooRi7Q3ZcbRbVAPU0qXf1jh2XcLWiuhnqhBSJWZGlAD0HcrgFdUCwvHujz3R138iFLCMRrvo2lpv7Y-NUGen_nsEIsi9ljMuR6HD96YNqT5HviqDDc0Nz0Hsu_hTdyLKQYkAbQ6TPOhbC141P6QQ4vpb_bbY_mVAs4uUVS9O9F7FZg0Rre6WEhNy_CsHsd1DXAhj0dQ0I2ffE5Idx2VDKf11mUX1xDSTFUfCi42_DcoZ5sec-xlmjCFp7r3TGTN3GZHEl_Dntx7UJm2OFc-MrkNqNOaSHRw41GRY6hf8DVAB9rP4-5QdnBDWHnuOTPX5_59iRn-0jq9n-idy9SGKAJcRRSMrc9eHK9NncTWvbDuwR_OO04LITd8DtDklEoTfbUNa5Pah9kuVH7obqQYfw3jLmBdo0Oijepe_b6smdPOQOmbCwDIXp8dMyuL3_-AAxY0Zy9kgA5ogzpewBnljE6ks6XlmT0gjKNLtyXgDOv8QPf3cRx1w7SxeBl1Sa1WdzIFk1Y2aPr1UzG2jT7B5-FS4_YQNW2AQGxte-oI4D0vOzASyQ7BBrK8Lh0rzHSL5cemRPChmymUSmwqOIJtwP5xNluBFa_Y8XRHxpd1-1GUE5d8djFmXrVCZEs6J37VeVCeVd3qsq4utdlJFg; ckbrsr=2459|Lucy.LIUH|1|2019-06-13 07:21:45|False$cdd8fad3ff61d06ebace894e46c476e1$2019-06-13 07:21:56; et_u=culture_code='en'&ef_id='5B90BDE0-849F-4271-8CF5-EE80569818A2'&member_id=23981273&is_social=false&language_code='en'&market='cn'&partner='Socn'&member_type='member'; divisionCode=SSCNTE2; et_sc=1; s_cc=true; Translator3_User_Preference=False~False~False~en; VMsi=683571966; et_ds=us1; et_s=is_returning=true&vmsi='1769893165'&partner_code='Socn'&partner_site='Englishtown'&partner_is_b2c=true&is_logged_in=true; IsSGC=false; CMus=ADIAMwA5ADgAMQAyADcAMwB8ADEANQA2ADEANAA1ADUANgAwADkAMwAxADcAfABzAHQAZQBzAHQANgAxADAAMwAxAHwATQB8AFMA; et_sid=0d6ae130fddb49b98e02febcae6c8870; etctxtsess=ver=1.5|AFMAbwBjAG4AfgAyADMAOQA4ADEAMgA3ADMAfgBNAH4AZQBuA; et_ctxtsoc=ver%3d1%7c0%7e%7e; s_etadslv=1561455612547; s_etadslv_s=Less%20than%207%20days; s_etavnum=1590226545331%26vn%3D16; s_etainvisit=true; s_sq=%5B%5BB%5D%5D; CmtyState=ver%3d3%7c23981273%7eFalse%7e0%7eTrue%7eTrue%7eFalse%7e10.128.42.142+23981273%7eONLINE%7e%7e0%7e%7e%7e%24-1%24%24False%24UN%24False%23False%23False%23False%23False%7eTrue%24True%24False%24True%24False%7eSocn%2410.128.42.142%2423981273%24%24%7e%7eun%7e%7e%7eu%7e
+
+q=blurb!91950%7Cblurb!634855%7Cblurb!449228%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!449228%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!449228%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!449228%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!492974%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!492974%7Cblurb!91949%7Cblurb!91950%7Cblurb!449229%7Cblurb!449228%7Cblurb!91949
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-ET-Proxy-Server: CNS-ETUAT-20
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 25 Jun 2019 09:40:14 GMT
+Content-Length: 456
+X-ServerAddr: 10.128.34.163
+
+[{"translation":"Teacher","maxAge":3600,"collapsed":false,"id":"blurb!91950"},{"translation":"Status","maxAge":3600,"collapsed":false,"id":"blurb!634855"},{"translation":"Topic","maxAge":3600,"collapsed":false,"id":"blurb!449228"},{"translation":"Date","maxAge":3600,"collapsed":false,"id":"blurb!91949"},{"translation":"Score","maxAge":3600,"collapsed":false,"id":"blurb!449229"},{"translation":"Unit","maxAge":3600,"collapsed":false,"id":"blurb!492974"}]
+
+------------------------------------------------------------------
+
